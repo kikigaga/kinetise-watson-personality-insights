@@ -13,7 +13,7 @@ applications:
 - path: .
   memory: 256M
   instances: 1
-  name: watson-personality-insights-app
+  name: watson-kiki
   disk_quota: 1024M
   buildpack: sdk-for-nodejs_v3_9-20161128-1327
   services:
